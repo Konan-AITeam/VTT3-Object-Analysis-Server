@@ -4,3 +4,6 @@
 [submodule "Postprocessing"]
 	path = Postprocessing
 	url = https://github.com/djkim3/correlation_based_postprocessing
+[submodule "EfficientDet"]
+	path = EfficientDet
+	url = https://github.com/djkim3/Yet-Another-EfficientDet-Pytorch-for-Korean-Drama-Dataset
