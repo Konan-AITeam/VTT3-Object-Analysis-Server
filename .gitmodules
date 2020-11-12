@@ -7,3 +7,6 @@
 [submodule "EfficientDet"]
 	path = EfficientDet
 	url = https://github.com/djkim3/Yet-Another-EfficientDet-Pytorch-for-Korean-Drama-Dataset
+[submodule "GBD"]
+	path = GBD
+	url = https://github.com/YeonjaeShin/AnalysisModule
