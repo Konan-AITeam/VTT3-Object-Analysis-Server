@@ -1,3 +1,6 @@
 [submodule "faster-rcnn"]
 	path = faster-rcnn
 	url = https://github.com/gschoe/analysis-module_fasterrcnn
+[submodule "Postprocessing"]
+	path = Postprocessing
+	url = https://github.com/djkim3/correlation_based_postprocessing
