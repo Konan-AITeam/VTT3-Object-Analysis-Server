@@ -10,3 +10,6 @@
 [submodule "GBD"]
 	path = GBD
 	url = https://github.com/YeonjaeShin/AnalysisModule
+[submodule "YOLO"]
+	path = YOLO
+	url = https://github.com/justHungryMan/AnotherOhDetector
