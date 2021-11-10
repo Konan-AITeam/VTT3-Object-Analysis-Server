@@ -12,4 +12,4 @@ VTT 3세부에서 만든 객체 분석 서버
     * EfficientDet, Correlation based postprocessing
 
 * 5차년도 연구
-    * EfficientDet
+    * EfficientDet (성능 개선)
